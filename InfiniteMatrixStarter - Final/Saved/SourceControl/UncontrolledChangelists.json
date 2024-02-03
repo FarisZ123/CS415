@@ -1,0 +1,34 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/faris/Desktop/InfiniteMatrixStarter - Copy/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/faris/Desktop/InfiniteMatrixStarter - Copy/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"/Users/faris/Desktop/InfiniteMatrixStarter - Copy/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/faris/Desktop/InfiniteMatrixStarter - Copy/Content/InfiniteMatrix/Materials/MI_Enemy.uasset",
+				"/Users/faris/Desktop/InfiniteMatrixStarter - Copy/Content/InfiniteMatrix/Blueprints/CameraShake.uasset",
+				"/Users/faris/Desktop/InfiniteMatrixStarter - Final/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"/Users/faris/Desktop/InfiniteMatrixStarter - Final/Content/InfiniteMatrix/Blueprints/BP_Projectile.uasset",
+				"/Users/faris/Desktop/InfiniteMatrixStarter - Final/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Player.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Maps/TutorialMap.umap",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_TunnelSpawner.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/WBP_Restart.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/green_health_2.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/red_health_2.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/HealthWidget.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/UI/PointsWidget.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_HealthPack_Spawner.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter - Copy/Content/InfiniteMatrix/Blueprints/BP_Tunnel.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter - Copy/Content/InfiniteMatrix/Materials/MI_HealthPack.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter - Copy/Content/InfiniteMatrix/Blueprints/BP_HealthPack_Spawner.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/HealthPacks.uasset",
+				"C:/Users/Faris/Desktop/InfiniteMatrixStarter/Content/InfiniteMatrix/Blueprints/BP_Tunnel_Spawner.uasset"
+			]
+		}
+	]
+}
