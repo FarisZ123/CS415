@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/HealthWidget.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/HealthBarFull.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/HealthBarEmpty.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/RestartWidget.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_Healthpack.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/ScoreWidget.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_Coins.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EnemyCharacter/Pursuer_AIController.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EnemyCharacter/BP_Pursuer.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EnemyCharacter/EAIState.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/BlockGame/Maps/MyLevel.umap",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/BlockGame/Maps/BlockGameMap.umap"
+			]
+		}
+	]
+}
