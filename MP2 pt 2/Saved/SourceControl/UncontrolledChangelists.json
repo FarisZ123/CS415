@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/HealthWidget.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/HealthBarFull.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/HealthBarEmpty.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/RestartWidget.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_Healthpack.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/UI/ScoreWidget.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/Pickups/BP_Coins.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EnemyCharacter/Pursuer_AIController.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EnemyCharacter/BP_Pursuer.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/LearningKit_Games/Blueprints/EnemyCharacter/EAIState.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/Textures/Smoke_Texture.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/Textures/SmokeMaterial.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/VFX/ExplosionNS.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Maps/LearningKit_Games_Showcase.umap",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/PlayerCharacter/BP_LearningKit_PlayerCharacter.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/Mortar_ProjectileBP.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/mortar_60_material_0.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/mortar_60.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/pindad_mortar_ammo_texture_5.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/pindad_mortar_ammo_texture_7.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/pindad_mortar_ammo_texture_0.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/pindad_mortar_ammo_texture_6.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/pindad_mortar_ammo_texture_4.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/pindad_mortar_ammo_texture_2.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/pindad_mortar_ammo_texture_1.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/pindad_mortar_ammo_texture_3.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/MU-28_PE.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/Object_6.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/MU-27_PE.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/Object_4.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/mixkit-arcade-game-explosion-2759.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/MortarBP.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/BP_Pursuer.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/Interactables/Triggerbox.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/BP_WeepingAngel.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/UI/WinWidget.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/Spawntrigger.uasset",
+				"C:/Users/Faris/Desktop/MP2 pt 2/Content/LearningKit_Games/Blueprints/EnemyCharacter/Spawner.uasset",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/BlockGame/Maps/MyLevel.umap",
+				"C:/Users/Faris/Desktop/UnrealLearningKit/Content/BlockGame/Maps/BlockGameMap.umap"
+			]
+		}
+	]
+}
